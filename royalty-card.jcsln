@@ -1,0 +1,11 @@
+<JavaCardSolution name="royalty-card">
+    <JavaCardProjects>
+        <JavaCardProject path="royalty-card/royalty-card.jcproj" />
+    </JavaCardProjects>
+    <Build>
+        <BuildDependon />
+    </Build>
+    <Platform>
+        <ChipPack Name="JAVACOS" />
+    </Platform>
+</JavaCardSolution>

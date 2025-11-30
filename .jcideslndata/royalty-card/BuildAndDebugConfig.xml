@@ -1,0 +1,8 @@
+<JavaCardConfiguration name="royalty-card">
+    <Config activeconfig="Debug">
+        <ConfigItem name="Debug" chipPack="JAVACOS">
+            <InstallConfig />
+            <ScriptConfig before_build="" after_build="" />
+        </ConfigItem>
+    </Config>
+</JavaCardConfiguration>
